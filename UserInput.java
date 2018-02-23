@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class UserInput {
-
+	// git test as well
 	static private String temp1, temp2, temp3;
 
 	// main function
