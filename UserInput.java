@@ -18,13 +18,14 @@ public class UserInput {
 		printData();
 
 	}
-	// adding another comment
-	// prints the user input
+	// yad yada yda
 	public static void printData() {
 
 		System.out.println(temp1);
 		System.out.println(temp2);
 		System.out.println(temp3);
 	}
+	// and anotehr 
+	// and another
 
 }
